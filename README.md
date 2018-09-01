@@ -1,5 +1,3 @@
-Iman Abyaneh
-
 This is the implementation of DES with CBC mode
 
 The first input is the message that is going to be encrypted, it should be in plain text.
